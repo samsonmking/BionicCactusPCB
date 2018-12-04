@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name wemos_d1_mini)(type KiCad)(uri "$(KIPRJMOD)/components/wimos_d1_mini/wemos_d1_mini.pretty")(options "")(descr ""))
+  (lib (name DRIVER-TB6612FNG-O_C8_EL_SSOP24_)(type KiCad)(uri "$(KIPRJMOD)/components/DRIVER-TB6612FNG-O_C8_EL_SSOP24_.pretty")(options "")(descr ""))
+  (lib (name net_tie)(type KiCad)(uri "$(KIPRJMOD)/components/net_tie")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/components/logo")(options "")(descr ""))
+)

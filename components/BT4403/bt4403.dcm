@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BT4403
+D 40V Vce, 0.6A Ic, PNP, SOT-23
+K  PNP Transistor
+F https://www.mouser.com/ds/2/149/MMBT4403-889756.pdf
+$ENDCMP
+#
+#End Doc Library
